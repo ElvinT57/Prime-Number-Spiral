@@ -10,9 +10,6 @@ int DESIRED_AMOUNT = 1400;  //the amount of desired points of primes and composi
 boolean showPrimes = true;
 boolean showComposites = true;
 
-//current point displayed
-Point currDisplay;
-
 void setup() {
   size(1400, 900);
   background(0);
