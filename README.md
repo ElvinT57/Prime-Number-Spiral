@@ -9,7 +9,11 @@ a radius and an angle from the origin.</p>
 <p>There is no reason or purpose to do this, except to appreacite the beautiful pattern that this entails.</p>
 <img width="410px" height="430px" src="https://github.com/ElvinT57/Prime-Number-Spiral/blob/master/spiral.PNG"/>
 <br/>
-<h3>Filtering out composites</h3>
+<h3>Visualizing the spiral</h3>
 <p>By using Processing (processing.org), we can implement our own version of this spiral and play around in the
 playground of data visualization.</p>
 <img width="700px" height="450px" src="https://github.com/ElvinT57/Prime-Number-Spiral/blob/master/Prime_Numbers_Spiral/gifs/spiral_zoomout.gif"/>
+<br/>
+<h3>Filtering out the composites</h3>
+<p>When filtering out the composite numbers from the spiral and leaving out the primes, we get a unique spiral pattern
+that resembles a galaxy.</p>
