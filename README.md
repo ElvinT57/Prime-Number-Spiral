@@ -18,3 +18,18 @@ playground of data visualization.</p>
 <p>When filtering out the composite numbers from the spiral and leaving out the primes, we get a unique spiral pattern
 that resembles a galaxy.</p>
 <img width="700px" height="450px" src="https://github.com/ElvinT57/Prime-Number-Spiral/blob/master/Prime_Numbers_Spiral/gifs/primes_zoomout.gif" />
+<br/>
+<h3>Controls</h3>
+<ul>
+  <li>UP - zoom in</li>
+  <li>DOWN - zoom out</li>
+  <li>W - move up</li>
+  <li>S - move down</li>
+  <li>A - move left</li>
+  <li>D - move right</li>
+  <br/>
+  <li>1 - toggle primes</li>
+  <li>2 - toggle composites</li>
+  <li>3 - decrease dot size</li>
+  <li>4 - increase dot size</li>
+</ul>
