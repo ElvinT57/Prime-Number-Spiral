@@ -17,3 +17,4 @@ playground of data visualization.</p>
 <h3>Filtering out the composites</h3>
 <p>When filtering out the composite numbers from the spiral and leaving out the primes, we get a unique spiral pattern
 that resembles a galaxy.</p>
+<img width="700px" height="450px" src="https://github.com/ElvinT57/Prime-Number-Spiral/blob/master/Prime_Numbers_Spiral/gifs/primes_zoomout.gif" />
