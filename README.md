@@ -12,4 +12,4 @@ a radius and an angle from the origin.</p>
 <h3>Filtering out composites</h3>
 <p>By using Processing (processing.org), we can implement our own version of this spiral and play around in the
 playground of data visualization.</p>
-<img width="600px" height="350px" src="https://github.com/ElvinT57/Prime-Number-Spiral/blob/master/Prime_Numbers_Spiral/gifs/spiral_zoomout.gif"/>
+<img width="700px" height="450px" src="https://github.com/ElvinT57/Prime-Number-Spiral/blob/master/Prime_Numbers_Spiral/gifs/spiral_zoomout.gif"/>
